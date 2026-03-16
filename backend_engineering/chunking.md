@@ -1,0 +1,31 @@
+# Chunking in RAG
+
+RAG works in three stages:
+
+1. Chunk documents
+2. Embed chunk
+3. Retrieve the top k-most relevant chunks (euclidean or cosine distance)
+
+## Chunk Properties
+
+* The common chunk size is approximately 600 tokens.
+* The overlap across the chunks could be helpful.
+* Hybrid Chunking combining semantic chunking and document-structure chunking is considered as the most suitable strategy.
+
+## Procedure
+
+````python
+Split the document
+For each section:
+    apply sementic chunk
+````
+
+````python
+def apply_semantic_chunk():
+    if similarity(sentence[i], sentence[i + 1]) < threshold:
+        new Chunk
+````
+
+* Concept-aligned chunks
+* Self-contained knowledge blocks
+
