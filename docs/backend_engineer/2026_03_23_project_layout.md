@@ -15,7 +15,7 @@ A good folder-structure layout should answer three key questions:
 
 * Where do logs go?
 * Where does persistent data live?
-* Where is configuration read from?
+* Where is the configuration read from?
 
 ## Concerns in Container-based Execution Environment
 
