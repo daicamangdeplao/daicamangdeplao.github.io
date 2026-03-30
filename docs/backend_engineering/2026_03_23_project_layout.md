@@ -2,7 +2,7 @@
 layout: post
 title: "App Folder-Structure Layout"
 date: 2026-03-16
-categories: backend_engineering
+categories: [backend_engineering]
 ---
 
 # App Folder-Structure Layout
