@@ -13,6 +13,6 @@ Man kann grob diese beide Tasks unterscheiden.
 * Die Laufzeit wird durch Rechenleistung begrenzt, d.h. CPU-bound = Rechnen limitiert Performance, z.B. Kryptographie, Bild-/Videoverarbeitung ...
 * Die Laufzeit wird durch Warten auf externe Ressourcen bestimmt, d.h. IO-bound = Warten limitiert Performance, z.B. Datenbankabfragen, HTTP-Calls, File I/O ...
 
-Um den Type der Aufgabe zu bestimmen, antworten diese Frage: 
-> Verbringt der Thread mehr Zeit mit Rechnen oder mit Warten?
+Um den Typ der Aufgabe zu bestimmen, beantworte diese Frage:
+> Verbringt der Thread mehr Zeit mit Rechnen oder Warten?
 
