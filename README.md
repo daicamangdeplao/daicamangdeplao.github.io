@@ -29,3 +29,10 @@ https://docs.github.com/en/pages/quickstart
 22. Vor- und Nachteile von Microservices
 23. monolith vs modulith vs microservice
 
+## Projektaufbau
+
+Dieses Projekt besteht aus zwei großen Teilen:
+
+* **Public Posts** – Beiträge, die öffentlich angezeigt werden.
+* **Private Posts** – Beiträge, die technisch in die Tiefe gehen und intern dokumentiert werden.
+
