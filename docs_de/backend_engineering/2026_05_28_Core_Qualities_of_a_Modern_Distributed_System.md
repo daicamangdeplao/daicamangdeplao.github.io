@@ -9,6 +9,13 @@ categories: [backend_engineering]
 
 Ein gut entworfenes verteiltes System erfüllt mehrere architektonische Qualitäten, die bestimmen, wie es unter Last funktioniert, sich von Ausfällen erholt und sich im Laufe der Zeit weiterentwickelt.
 
+## Inhaltsverzeichnis
+- [1. Betriebliche Qualitäten](#1-betriebliche-qualitäten)
+- [2. Wachstumsqualitäten](#2-wachstumsqualitäten)
+- [3. Technische Qualitäten](#3-technische-qualitäten)
+- [4. Datenqualitäten](#4-datenqualitäten)
+- [5. Geschäftliche Qualitäten](#5-geschäftliche-qualitäten)
+
 ## 1. Betriebliche Qualitäten
 
 Betriebliche Qualitäten legen fest, wie zuverlässig und effektiv das System in der Produktion läuft.
