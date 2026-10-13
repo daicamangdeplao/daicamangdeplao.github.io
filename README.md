@@ -137,6 +137,6 @@ Themen außerhalb der Roadmap, die bereits dokumentiert sind:
 * [Chunking](docs/backend_engineering/2026_03_16_chunking.md)
 * [Project Layout](docs/backend_engineering/2026_03_23_project_layout.md)
 * [CPU- und IO-Tasks](docs/backend_engineering/2026_04_04_CPU_und_IO_Tasks.md)
-* [Virtual Threads](docs/backend_engineering/2026_04_05_Virtual_Thread.md)
+* [Virtual Threads](docs_de/backend_engineering/2026_04_05_Virtual_Thread.md)
 * [Strategie zur Umsetzung eines Plans](docs/mental_engineering/2026-04-19_Strategie_zur_Umsetzung_eines_Plans.md)
 * [How to learn a new tool](docs/mental_engineering/2026_03_30_how_to_learn_new_tool.md)
